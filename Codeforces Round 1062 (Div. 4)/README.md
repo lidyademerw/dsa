@@ -1,0 +1,1 @@
+solutions for contest 1062 
